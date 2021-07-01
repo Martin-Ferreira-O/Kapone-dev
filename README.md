@@ -10,7 +10,7 @@ En las siguientes tecnologias:
 
 ## Sobre mi
 - Todos los dias estudio algo nuevo en la programación
-- Uno de mis proyectos es Tyra (Bot de discord en 960 servidores)
+- Uno de mis proyectos es Tyra (Bot de discord en 1200 servidores)
 - Soy desarrollador & JefeAdministrador en Heartbox
 
 
