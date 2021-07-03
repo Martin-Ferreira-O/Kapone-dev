@@ -81,5 +81,5 @@
   
 <a href="https://github.com/kapone-dev">
   <img align="center"
-       src="https://camo.githubusercontent.com/3c24aec867e74c49be79354e84aa047ae100bcb48d2aa6fdb44bfbbdfe0fc698/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d67726561742d676174736279" />
+       src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=kapone-dev&show_icons=true&include_all_commits=false&theme=radical&count_private=true%22%20alt=%22KaponeDev%27s%20Github%20Stats" />
 </a>
