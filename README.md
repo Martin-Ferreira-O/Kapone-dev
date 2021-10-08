@@ -6,7 +6,7 @@
 
 
 <!-- Quote -->
-<p align="center">Soy un pequeño desarrollador con 16 años de edad.
+<p align="center">I am a developer with 16 years old.
   
   <!-- Social Network -->
 <h1 align="center">
@@ -37,7 +37,7 @@
 &nbsp;
 
 <!-- Technical Skills -->
-<p><H3 align="center"><strong> Mis habilidades tecnicas: 💻 </strong></p>
+<p><H3 align="center"><strong> My skills 💻 </strong></p>
   
   
  
@@ -61,7 +61,7 @@
 &nbsp;  
 
   <!-- Skills to learn -->
-<p><H3 align="center"><strong>Habilidades por aprender.. 🌐</strong></p>
+<p><H3 align="center"><strong>Skills to learn. 🌐</strong></p>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></code> 
   </p>
 &nbsp;
