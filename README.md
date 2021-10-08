@@ -52,16 +52,17 @@
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146218-b57ccf00-470b-11eb-8fcc-aa46cab9253f.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png"></code>
-  </p>
+  <code><img height="40" src="https://user-images.githubusercontent.com/69044934/124339694-34046e80-db7e-11eb-94a8-c3a7e3eab9b5.png"></code>
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
+  
+</p>
   
 &nbsp;  
 
   <!-- Skills to learn -->
 <p><H3 align="center"><strong>Habilidades por aprender.. 🌐</strong></p>
-  
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-  <code><img height="40" src="https://user-images.githubusercontent.com/69044934/124339694-34046e80-db7e-11eb-94a8-c3a7e3eab9b5.png"></code>
-  
+  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></code> 
   </p>
 &nbsp;
 
