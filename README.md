@@ -1,12 +1,12 @@
 <!-- Title -->
-<h1 align="center">Hello World 
+<h1 align="center">Hola mundo!
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
        width="30px">
   </h2></h1>
 
 
 <!-- Quote -->
-<p align="center">I am a developer with 16 years old.
+<p align="center">Estudiante de ingenieria civil informatica, empece a programar a los 16 años.
   
   <!-- Social Network -->
 <h1 align="center">
@@ -44,26 +44,15 @@
   <code><img height="40" src="https://user-images.githubusercontent.com/69044934/124339418-6b721b80-db7c-11eb-9724-036cb0e32653.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/69044934/124339340-dec75d80-db7b-11eb-8250-12b4fd6e216c.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/69044934/124339496-d885b100-db7c-11eb-85e7-5ce054124023.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146298-d98ce000-470c-11eb-973d-3ff9e1b90561.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146335-3d170d80-470d-11eb-9fce-ff775c77b96b.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146218-b57ccf00-470b-11eb-8fcc-aa46cab9253f.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/69044934/124339694-34046e80-db7e-11eb-94a8-c3a7e3eab9b5.png"></code>
   <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
   
 </p>
   
-&nbsp;  
-
-  <!-- Skills to learn -->
-<p><H3 align="center"><strong>Skills to learn. 🌐</strong></p>
-  <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></code> 
-  </p>
 &nbsp;
 
 <!-- GitHub Stats -->
